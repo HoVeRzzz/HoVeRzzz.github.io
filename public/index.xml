@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HoVeRzzz</title>
+    <link>https://hoverzzzisa.ninja/</link>
+    <description>Recent content on HoVeRzzz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 10:29:18 +0100</lastBuildDate><atom:link href="https://hoverzzzisa.ninja/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Kernel</title>
+      <link>https://hoverzzzisa.ninja/posts/linuxkernel/</link>
+      <pubDate>Thu, 10 Aug 2023 10:29:18 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/posts/linuxkernel/</guid>
+      <description>Journey into the Heart of Technology: Demystifying the Linux Kernel Link to heading Introduction Link to heading The world of technology is powered by countless lines of code, and at the heart of the open-source revolution lies the Linux kernel. The Linux kernel is the foundational software that bridges the gap between hardware and software, enabling the diverse range of Linux-based operating systems we use today. In this in-depth exploration, we will delve into the intricacies of the Linux kernel, its architecture, components, and the profound impact it has on modern computing.</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>https://hoverzzzisa.ninja/donate/</link>
+      <pubDate>Tue, 08 Aug 2023 16:13:47 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/donate/</guid>
+      <description> Bitcoin: bc1qp5q6envk7dxhydsrs4uurup6tq2rm2prr37trh Ethereum: 0xF10A6B3Be306c2B905F0A1d3B9e1Eed024f2E75d BNB: 0xF10A6B3Be306c2B905F0A1d3B9e1Eed024f2E75d </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://hoverzzzisa.ninja/contact/</link>
+      <pubDate>Tue, 08 Aug 2023 16:10:06 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/contact/</guid>
+      <description> Email - yesnt01@proton.me Discord: hoverzzz </description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://hoverzzzisa.ninja/links/</link>
+      <pubDate>Tue, 08 Aug 2023 16:06:16 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/links/</guid>
+      <description> My Socials Link to heading YouTube GitHub Recommendations (Things that I use/enjoy) Link to heading DNS Server Hagezi Blocklist Windows Privacy Tweaks yt-dlp </description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>https://hoverzzzisa.ninja/products/</link>
+      <pubDate>Tue, 08 Aug 2023 15:59:32 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/products/</guid>
+      <description>➡️ Book Summaries Link to heading I&amp;rsquo;m a reader who dives into the realms of Psychology, Human Relationships, self-improvement, and philosophy. But my love for books goes beyond mere reading — I transform my knowledge into unique handmade summaries. As a seller, I offer concise and insightful summaries of the books I devour. With each summary, I capture the essence of the author&amp;rsquo;s words, distilling complex concepts into easily digestible gems.</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://hoverzzzisa.ninja/about/</link>
+      <pubDate>Sun, 06 Aug 2023 18:01:22 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/about/</guid>
+      <description>Hey, I&amp;rsquo;m HoVeRzzz. Link to heading I am a young adult who strives to be better everyday.
+Things I love include: Gym, Technology, Business and Learning.
+I am going to use this website to share knowledge, sell my products, make blog posts and connect with more people.
+Looking for something? Link to heading 📜 Find my dotfiles and scripts on GitHub. 📽 Watch my videos on YouTube. 💻 Want to see my socials, the programs I use/recommend?</description>
+    </item>
+    
+  </channel>
+</rss>
