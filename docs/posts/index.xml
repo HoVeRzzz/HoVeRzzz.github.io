@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on HoVeRzzz</title>
+    <link>https://hoverzzzisa.ninja/posts/</link>
+    <description>Recent content in Posts on HoVeRzzz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Aug 2023 10:29:18 +0100</lastBuildDate><atom:link href="https://hoverzzzisa.ninja/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Kernel</title>
+      <link>https://hoverzzzisa.ninja/posts/linuxkernel/</link>
+      <pubDate>Thu, 10 Aug 2023 10:29:18 +0100</pubDate>
+      
+      <guid>https://hoverzzzisa.ninja/posts/linuxkernel/</guid>
+      <description>Journey into the Heart of Technology: Demystifying the Linux Kernel Link to heading Introduction Link to heading The world of technology is powered by countless lines of code, and at the heart of the open-source revolution lies the Linux kernel. The Linux kernel is the foundational software that bridges the gap between hardware and software, enabling the diverse range of Linux-based operating systems we use today. In this in-depth exploration, we will delve into the intricacies of the Linux kernel, its architecture, components, and the profound impact it has on modern computing.</description>
+    </item>
+    
+  </channel>
+</rss>
